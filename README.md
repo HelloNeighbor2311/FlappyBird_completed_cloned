@@ -44,7 +44,7 @@ This project was created as part of my learning journey as a **Game Development 
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/HelloNeighbor2311/FlappyBird_completed_cloned.git
 2. Open Unity Hub
 
 3. Click Open Project
@@ -57,6 +57,6 @@ This project was created as part of my learning journey as a **Game Development 
 
 ---
 
-##🚧 Project Status
+## 🚧 Project Status
 
 This project is completed as a basic playable game, but may receive improvements in the future.
