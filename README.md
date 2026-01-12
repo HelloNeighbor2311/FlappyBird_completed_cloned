@@ -1,10 +1,10 @@
-# 🐦 Flappy Bird (Unity)
+#  Flappy Bird (Unity)
 
 A simple **Flappy Bird clone** developed using **Unity** for learning and practice purposes.
 
 ---
 
-## 📖 Description
+## Description
 
 This project is a recreation of the classic **Flappy Bird** game, built with **Unity and C#**.  
 The main objective of this project is to practice fundamental game development concepts such as physics-based movement, collision detection, scoring systems, and scene management.
@@ -13,7 +13,7 @@ This project was created as part of my learning journey as a **Game Development 
 
 ---
 
-## 🎮 Gameplay
+## Gameplay
 
 - Tap / press a key to make the bird fly upward  
 - Avoid hitting the pipes  
@@ -22,7 +22,7 @@ This project was created as part of my learning journey as a **Game Development 
 
 ---
 
-## ✨ Features
+## Features
 
 - Physics-based bird movement  
 - Pipe spawning system  
@@ -32,7 +32,7 @@ This project was created as part of my learning journey as a **Game Development 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Game Engine:** Unity  
 - **Programming Language:** C#  
@@ -40,7 +40,7 @@ This project was created as part of my learning journey as a **Game Development 
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
    ```bash
@@ -57,6 +57,6 @@ This project was created as part of my learning journey as a **Game Development 
 
 ---
 
-## 🚧 Project Status
+## Project Status
 
 This project is completed as a basic playable game, but may receive improvements in the future.
